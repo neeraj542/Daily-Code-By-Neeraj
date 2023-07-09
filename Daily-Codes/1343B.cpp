@@ -1,5 +1,5 @@
 // B. Balanced Array
-// CodeForces: https://codeforces.com/problemset/problem/1343/B
+// CodeForces: https://codeforces.com/problemset/problem/1343/B 
 
 #include <iostream>
 
