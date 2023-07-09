@@ -14,7 +14,7 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        int n; cin >> n;
+        int n; cin >> n; 
         n /= 2;
         if (n & 1) {
             cout << "NO" << endl;
